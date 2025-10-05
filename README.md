@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a quick overview of my programming skills a
 
 ---
 
-## 💻 Languages I Know
+##  Proficient In
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here's a quick overview of my programming skills a
 
 ---
 
-## 🔧 Languages I’m Learning
+## Learning
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
