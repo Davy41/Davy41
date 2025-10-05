@@ -1,6 +1,8 @@
 # Hi, I'm Davy 👋
 
-Welcome to my GitHub profile! Here's a quick overview of my programming skills and the technologies I’m currently exploring.
+💻 I love turning ideas into real, working code.  
+🔧 Full-stack developer focused on **UI/UX design, backend development**, and building intuitive digital solutions.  
+🌱 Always learning, building, and experimenting with new technologies.
 
 ---
 
