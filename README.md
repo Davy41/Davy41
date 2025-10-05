@@ -28,4 +28,9 @@ Welcome to my GitHub profile! Here's a quick overview of my programming skills a
 ### 📫 Connect with Me
 
 Feel free to check my repositories and reach out if you want to collaborate!  
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davy-ibambasi-506bb3350/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaibambasi95@gmail.com)
+
 
