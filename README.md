@@ -6,6 +6,14 @@
 
 ---
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Davy+👋;A+Passionate+UI%2FUX+Designer;Lover+of+Colors+%26+Motion+Design;Always+Designing+Something+Beautiful+🎨)](https://git.io/typing-svg)
+
+
+![Designer at work](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
+
+
 ##  Proficient In
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
