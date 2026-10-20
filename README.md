@@ -1,8 +1,8 @@
 # Hi, I'm Davy 👋
 
-💻 I love turning ideas into real, working code.   
-🔧 Full-stack developer focused on **UI/UX design, backend development**, and building intuitive digital solutions.  
-🌱 Always learning, building, and experimenting with new technologies.
+ I love turning ideas into real, working code.   
+ Full-stack developer focused on **UI/UX design, backend development**, and building intuitive digital solutions.  
+ Always learning, building, and experimenting with new technologies.
 
 ---
 
