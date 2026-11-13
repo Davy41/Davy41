@@ -4,6 +4,8 @@
  Full-stack developer focused on **UI/UX design, backend development**, and building intuitive digital solutions.  
  Always learning, building, and experimenting with new technologies.
 
+Visit y portfolio at: coosin.netlify.app
+
 ---
 
 
